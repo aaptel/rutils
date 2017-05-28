@@ -1,0 +1,8 @@
+[package]
+name = "rutils"
+version = "0.1.0"
+authors = ["Aurélien Aptel <aurelien.aptel@gmail.com>"]
+
+[dependencies]
+log = "0.3"
+env_logger = "0.3"
